@@ -1,8 +1,8 @@
-### Hi there 👋
-
-My name is YAUHEN and I Python Backend Developer.  
+<h1 align="center">Hi there, I'm YAUHEN and I Python Backend Developer.<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/></h1>
 I'm from Minsk, Belarus.  
 Studied at the Belarusian State University of Informatics and Radioelectronics (BSUIR) as an electronic security systems engineer.  
+
+Courses:  
 
 My Portfolio:  
 
@@ -27,3 +27,5 @@ Web
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+My stydies story
