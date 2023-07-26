@@ -6,6 +6,7 @@ Studied at the Belarusian State University of Informatics and Radioelectronics (
 Completed courses:  
 <details>
 <summary>Spoiler</summary>
+    
 1. BEEGEEK "Поколение Python"
     - Курс для начинающих
     - Курс для продвинутых
