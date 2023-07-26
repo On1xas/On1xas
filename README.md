@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm YAUHEN and I Python Backend Developer<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 I'm from Minsk, Belarus.  
-Studied at the Belarusian State University of Informatics and Radioelectronics (BSUIR) as an electronic security systems engineer.  
+
 ---
 Completed courses:  
 <details>
