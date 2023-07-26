@@ -2,15 +2,25 @@
 
 I'm from Minsk, Belarus.  
 Studied at the Belarusian State University of Informatics and Radioelectronics (BSUIR) as an electronic security systems engineer.  
-
+---
 Courses:  
-
+1. BEEGEEK "Поколение Python"
+    - Курс для начинающих
+    - Курс для продвинутых
+    - Курс для профессионалов
+    - ООП
+    - Алгоритмы
+    - SQL
+2. Инди-курс програмирования на Python от Артёма Егорова
+3. Объектно-ориентированное программирование на Python от Артёма Егорова
+4. Регулярные выражения в Python от Snorovka
 My Portfolio:  
 
 
 
-
+---
 My Tech Stack:  
+---
 Database:  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -33,7 +43,7 @@ Web
 
 My stydies story
 <details>
- 
+<summary>Spoiler</summary>
 I start stydies Python in Sempteber 2022 year.
  
 </details>
