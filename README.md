@@ -32,3 +32,8 @@ Web
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 My stydies story
+<details>
+ 
+I start stydies Python in Sempteber 2022 year.
+ 
+</details>
