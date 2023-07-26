@@ -4,6 +4,8 @@ I'm from Minsk, Belarus.
 Studied at the Belarusian State University of Informatics and Radioelectronics (BSUIR) as an electronic security systems engineer.  
 ---
 Completed courses:  
+<details>
+<summary>Spoiler</summary>
 1. BEEGEEK "Поколение Python"
     - Курс для начинающих
     - Курс для продвинутых
@@ -17,6 +19,10 @@ Completed courses:
 5. Асинхронное программирование от Олег Молчанов
 6. Объектно-ориентированное программирование на Python от Олег Молчанов
 7. Логирование в Python от Олег Молчанов
+
+</details>
+
+
 
 
 My Portfolio:  
