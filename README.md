@@ -2,14 +2,14 @@
 
 My name is YAUHEN and I Python Backend Developer.  
 I'm from Minsk, Belarus.  
-Bachelor of Belarusian State University of Informatics and Radioelectronics (BSUIR) in specialty Electronic Security Systems Engineer.  
+Studied at the Belarusian State University of Informatics and Radioelectronics (BSUIR) as an electronic security systems engineer.  
 
 My Portfolio:  
 
 
 
 
-My TECH Stack:  
+My Tech Stack:  
 Database:  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
