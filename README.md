@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-About me:
+<p>About me:<p>
 My name is YAUHEN and I Python Backend Developer.
 I'm from Minsk, Belarus. 32 y/o.
 Bachelor of Belarusian State University of Informatics and Radioelectronics (BSUIR) in specialty Electronic Security Systems Engineer.
